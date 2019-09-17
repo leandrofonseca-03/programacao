@@ -2,7 +2,7 @@ package com.Unama;
 
 import java.util.Scanner;
 
-public class exer2letraA {
+public class Ex2letraA {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         int totalC;
