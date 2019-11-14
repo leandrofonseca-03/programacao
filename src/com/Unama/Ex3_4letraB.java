@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ex3_4letraB {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
-        int numPac, maior = 0, idade = 0;
+        int numPac, maior = 0, idade;
         System.out.println("Informa o número de pacientes: ");
         numPac = leia.nextInt();
         for(int i=1; i<=numPac; i++){
